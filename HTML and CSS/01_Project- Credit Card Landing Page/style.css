@@ -11,7 +11,14 @@ span{
 }
 
 /* Navigation Bar */
+nav{
+    cursor: pointer;
+}
+.li-nav >li{
+cursor: pointer;
+}
 .li-nav{
+    
     display: flex;
     gap: 90px;
     list-style: none;
@@ -43,6 +50,7 @@ top: 46px;
 
 }
 .down >img{
+    width: 13px;
     position: absolute;
     right: 186px;
     top: 54px;
@@ -191,6 +199,7 @@ margin-top: 16px;
     border-bottom: 1px solid grey;
     border-right: 1px solid grey;
 }
+
 
 .cloud{
     margin-top: -70px;
@@ -351,4 +360,65 @@ color: rgb(184, 183, 183);
         width: 405px;
     padding: 20px;
     
+}
+
+
+
+.circle{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.l-circle{
+    border-radius: 50px;
+    background-color: #f637ec;
+    width: 100px;
+    height: 18px;
+}
+
+.s-circle{
+    background-color: rgb(103, 103, 103);
+    
+         height: 18px;
+         width: 18px;
+         border-radius: 50%;
+}
+
+
+/* .horizontal{
+    background-image: url(../01_Project-\ Credit\ Card\ Landing\ Page/Assets/photos/Rectangle 6774.png);
+} */
+
+
+.horizontal{
+    margin-top: 154px;
+    margin-left: -6px;
+    display: flex;
+}
+
+.horizontal1,.horizontal2{
+    position: absolute;
+}
+
+.d-right, .d-left{
+    position: absolute;
+}
+
+.d-right{
+    
+    right: 0px;
+}
+
+.d-left{
+    left: 0px;
+}
+
+.lets{
+    color: white;
+        position: absolute;
+            
+        
 }
