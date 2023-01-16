@@ -1,0 +1,107 @@
+/* Navigation Bar */
+.f-back{
+    /* height: 95vh; */
+    margin: -16px;
+    font-family: Poppins;
+    background-image: url(./Assets/Photos/futuristic-bg.png) ;
+    padding-bottom: 80px;
+    /* filter: brightness(50%); */
+}
+.inside{
+    display: flex;
+}
+.nav{
+    padding-top: 18px;
+    padding-left: 74px;
+    color: rgb(208, 204, 204);
+    font-weight: 400;
+    font-size:14px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.l-img{
+    flex-basis: 277px;
+}
+
+.btn-first>p {
+    background-color: none; 
+    position: absolute;
+    padding: 1px 45px;
+    right: 202px;
+    border: none;
+}
+
+.btn-second>button {
+    position: absolute;
+    padding: 15px 45px;
+    right: 83px;
+    border: none;
+    color: white;
+    background-color: #dd6b55;
+}
+
+/* Hero Section */
+.hero{
+    margin-top: 87px;
+    padding-left: 74px;
+}
+
+.hero-des{
+    color: white;
+    line-height: 0.4;
+    font-size: 45px ;
+    font-weight: bold;
+}
+.hero-con{
+     color: rgb(208, 204, 204);
+     width: 514px;
+}
+
+.get-started{
+    margin-top: 80px;
+    display: flex;
+    gap: 10px;
+}
+
+.get-started1>button{
+    color: white;
+    padding: 20px 45px;
+    background-color: #dd6b55;
+    border: none;
+}
+.get-started2 {
+    color: white;
+    padding: 13px 32px;
+    ;
+    
+    border:1px solid white ;
+}
+.play-Button{
+    position: absolute;
+    right: 248px;
+    top: 270px;
+}
+
+.dash > img{
+    position: absolute;
+    right: 80px;
+    
+
+}
+.xxiv{
+    color: white;
+    
+    font-weight: normal;
+    position: absolute;
+    top: 380px;
+    right: 178px;
+}
+
+.rightArrow > img{
+    position: absolute;
+    right: 10px;
+
+}
