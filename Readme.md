@@ -4,8 +4,8 @@
 
 
 ### Artical
-(link)[https://hashnode.com/@Sbhandari2608]
+![Artical](https://hashnode.com/@Sbhandari2608)
 
 **Project 1**
 
-(link)[./HtmlAndCss Assignment]
+[](./HtmlAndCss%20Assignment/FSJS%202.0%20Project%2001)
