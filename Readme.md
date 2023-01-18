@@ -4,7 +4,7 @@
 
 
 ### Artical
-![Artical](https://hashnode.com/@Sbhandari2608)
+[Artical](https://hashnode.com/@Sbhandari2608)
 
 **Project 1**
 

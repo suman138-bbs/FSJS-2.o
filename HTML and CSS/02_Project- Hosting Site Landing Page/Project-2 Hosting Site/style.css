@@ -292,3 +292,40 @@ i{
     color:#bbb;
     
    }
+
+
+
+   /* Subscription */
+.subscription
+  {
+    margin-top: 0px;
+  }
+
+  .subscription h1{
+    font-size: 45px;
+    font-weight: 500;
+    /* font-stretch: 100%; */
+    color: white;
+    text-align: center;
+  }
+
+  .subscription .arrow-left{
+    display: inline;
+    position: relative;
+        left: 161px;
+    top: 200px;
+  }
+    .subscription .arrow-right {
+          display: inline;
+            position: relative;
+            left: 1017px;
+            top: -125px;
+    }
+ 
+    .Regular{
+      background-color: white;
+    }
+
+    .subscription1{
+      display: flex;
+    }
