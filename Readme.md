@@ -8,4 +8,4 @@
 
 **Project 1**
 
-[Click](./HtmlAndCss%20Assignment/FSJS%202.0%20Project%2001/)
+[Click](./HtmlAndCss%20Assignment/FSJS%202.0%20Project%2001)
