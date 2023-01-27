@@ -8,4 +8,4 @@
 
 **Project 1**
 
-[Click](./HtmlAndCss%20Assignment/FSJS%202.0%20Project%2001)
+[Click](./HTML%20and%20CSS/02_Project-%20Hosting%20Site%20Landing%20Page/readme.md)
