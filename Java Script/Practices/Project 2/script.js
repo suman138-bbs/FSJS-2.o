@@ -1,2 +1,7 @@
 let btn = document.querySelector('button');
-console.log(btn)
+
+let f1=()=>{
+    
+}
+
+btn.addEventListener('click',f1)
