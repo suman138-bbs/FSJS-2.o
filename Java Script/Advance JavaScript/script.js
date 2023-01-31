@@ -31,6 +31,7 @@
 // Create Element using Dom
 
 let bt1 = document.querySelector("button")
+console.log(bt1)
 
 bt1.addEventListener('click', () => {
     let ele = document.createElement('h1')
@@ -38,4 +39,3 @@ bt1.addEventListener('click', () => {
     document.body.appendChild(ele)
 })
 
-console.log(bt1)
