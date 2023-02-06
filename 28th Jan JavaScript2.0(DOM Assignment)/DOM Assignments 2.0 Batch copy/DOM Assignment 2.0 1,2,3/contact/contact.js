@@ -13,5 +13,5 @@ pl1[0].placeholder = "FSJs2.0"
 pl1[1].placeholder = "fsjs@ineuron.ai"
 
 
-let te2 = document.querySelector('.userMessage')
+let te2 = document.querySelector('.enterMessage')
 te2.placeholder='Hello World'
