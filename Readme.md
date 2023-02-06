@@ -8,7 +8,7 @@
 
 ****
 
-[Project 1](./HtmlAndCss%20Assignment/FSJS%202.0%20Project%2001/Readme.md)
+[Projects](./HtmlAndCss%20Assignment/Readme.md)
 
 
-[Project 2](./HtmlAndCss%20Assignment/FSJS%202.0%20Project%2002/README.md)
+
