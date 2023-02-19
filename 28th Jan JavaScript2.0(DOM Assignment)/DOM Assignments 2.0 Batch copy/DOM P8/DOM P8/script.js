@@ -42,22 +42,12 @@ bod.style.backgroundImage = 'none'
 
 
 // TASK--3
-let media = window.matchMedia('(max-width: 990px)')
-if (media.mathes) {
-    console.log("YOu reached")
-    let navi = document.querySelector('.navbar-nav')
-    let btn = document.querySelector('.navbar-toggler');
-    btn.addEventListener('click', () => {
 
-        let li1 = document.createElement('li')
-        li1.classList.add('nav-item')
-        let a1 = document.createElement('a')
-        a1.innerText = 'Home'
-        navi.appendChild(li1)
-        navi.appendChild(a1)
-        console.log("hyy")
 
-    })
-    alert('matched')
-}
+let cl = document.querySelector('.navbar-toggler')
+let di1 = document.querySelector('#navbarTogglerDemo01')
 
+cl.addEventListener('click', () => {
+    di1.classList.toggle('collapse')
+    
+})
