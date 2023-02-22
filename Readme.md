@@ -10,7 +10,7 @@
 
 [project-1](https://sprightly-manatee-3f7809.netlify.app/)
 
-[project-2]([project-1](https://sprightly-manatee-3f7809.netlify.app/)
+[project-2](https://sprightly-manatee-3f7809.netlify.app/)
 )
 
 
