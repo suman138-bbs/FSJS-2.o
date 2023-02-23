@@ -37,10 +37,44 @@
 // console.log(obj1.MyName)
 
 
-let clz = {
-    name:'BBS',since:'2002'
-}
+// let clz = {
+//     name:'BBS',since:'2002'
+// }
 
-console.log(clz)
-console.log(clz.name)
-console.log(clz.since)
+// console.log(clz)
+// console.log(clz.name)
+// console.log(clz.since)
+
+
+
+// let par = document.querySelector('.para')
+// par.className = 'pink'
+// par.classList.add('red')
+
+// par.classList.add('blue')
+ 
+// // par.classList.contains('blue')
+
+
+// let f1 = () => {
+//     console.log('console after 2 second')
+    
+// }
+
+//     setInterval(f1, 1000)
+
+
+
+
+
+// function f1() {
+//     console.log('HYy')
+// }
+
+
+
+// console.log("hello")
+let promise = new Promise(function (resolve, reject) {
+        
+        resolve(56)
+    })
