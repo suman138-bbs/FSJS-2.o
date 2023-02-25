@@ -74,7 +74,22 @@
 
 
 // console.log("hello")
-let promise = new Promise(function (resolve, reject) {
+// let promise = new Promise(function (resolve, reject) {
         
-        resolve(56)
-    })
+//         resolve(56)
+//     })
+
+
+
+
+var a = 1
+f1()
+f2()
+function f1() {
+    var a = 10;
+}
+
+function f2()
+{
+    var a = 100;
+}
