@@ -82,14 +82,37 @@
 
 
 
-var a = 1
-f1()
-f2()
-function f1() {
-    var a = 10;
-}
+// var a = 1
+// f1()
+// f2()
+// function f1() {
+//     var a = 10;
+// }
 
-function f2()
-{
-    var a = 100;
-}
+// function f2()
+// {
+//     var a = 100;
+// }
+
+
+// let area = function f1(n, f2) {
+    
+//     f2();
+//     console.log(n)
+// }
+
+// let area1 = function f2() {
+//     console.log("YOU are in f2")
+// }
+
+// area(5,area1)
+
+
+// const cart = ['shoes', 'kurta']
+// const promise = createOrder(function (orderId) {
+    
+// })
+
+// const GitHub  = ''
+// const user = fetch(GitHub
+// )
